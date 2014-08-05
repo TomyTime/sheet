@@ -25,9 +25,6 @@
       <script type="text/javascript" src="<%=request.getContextPath()%>/static/js/jquery-1.8.3.js"></script>
   </head>
   <body>
-  <%
-    System.out.println(request.getContextPath());
-  %>
   <div class="header">
       <div class="home-menu pure-menu pure-menu-open pure-menu-horizontal pure-menu-fixed">
           <a class="pure-menu-heading" href="">Your Site</a>
